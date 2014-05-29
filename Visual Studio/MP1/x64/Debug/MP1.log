@@ -1,0 +1,17 @@
+﻿Build started 1/22/2014 12:31:44 PM.
+     1>Project "C:\Users\pas0185\Dropbox\CSCE313\MP1\MP1\MP1.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\MP1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         MP1.vcxproj -> C:\Users\pas0185\Dropbox\CSCE313\MP1\x64\Debug\MP1.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\MP1.unsuccessfulbuild".
+         Touching "x64\Debug\MP1.lastbuildstate".
+     1>Done Building Project "C:\Users\pas0185\Dropbox\CSCE313\MP1\MP1\MP1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
